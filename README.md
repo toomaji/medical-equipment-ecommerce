@@ -17,8 +17,7 @@ develop:
 شاخه اصلی توسعه
 
 تمام featureها به این شاخه merge می‌شوند
-
-باید همیشه پایدار باشد
+=
 
 ۲. شاخه‌های موقت (Short-lived branches)
 الف) Feature branches (برای توسعه ویژگی‌های جدید)
